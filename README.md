@@ -1,1 +1,1 @@
-# ms_in_ds_at_nj_it
+# MS in Data Science (Computational track) at NJIT
